@@ -1,0 +1,10 @@
+/.github/
+/.idea/
+/coverage/
+/src/
+/test/
+.eslintrc.json
+vite.config.ts
+vitest.config.ts
+*.json
+*.yml
